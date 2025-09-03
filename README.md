@@ -1,17 +1,17 @@
 # 📚 TU Wien – Courses (Current Semester)
 
-## Core & Electives
+## Foundations & Core
 
-| Course | Code | ECTS | Peers |
-|--------|------|------|-------|
-| Machine Learning | 184.702 | 4.5 | Brandon |
-| Advanced Methods for Regression and Classification | 105.707 | 4.5 |  |
-| Einführung in Semantic Systems | 188.399 | 3.0 |  |
-| Experiment Design and Execution | 194.192 | 6.0 |  |
-| Statistische Simulation und computerintensive Methoden | 107.330 | 3.0 |  |
-| Effiziente Programme | 185.190 | 3.0 |  |
+| Type        | Course                                                 | Code    | ECTS | Peers   |
+| ----------- | ------------------------------------------------------ | ------- | ---- | ------- |
+| Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon |
+| Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  |         |
+| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  |         |
+| Foundations | Experiment Design and Execution                        | 194.192 | 6.0  |         |
+| Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  |         |
+| Big Data | Effiziente Programme                                      | 185.190 | 3.0  |         |
 
-**Subtotal Core & Electives:** 24.0 ECTS  
+**Subtotal Foundations & Core:** 24.0 ECTS  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-**Subtotal Core, Electives, Transferable Skills:** 27.0 ECTS  
+**Subtotal Foundations, Core, Transferable Skills:** 27.0 ECTS  
 
 Im going to sign up for all VA Extensions  
 Im going to pick 1 course from ML AND 1 course from BD  
@@ -72,4 +72,4 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 - Add **1 ML course (3.0–6.0 ECTS)**  
 - Add **1 BD course (6.0 ECTS)**  
 
-➡**Final Total: 51.0 – 54.0 ECTS**, depending on ML choice.  
+➡ **Final Total: 51.0 – 54.0 ECTS**, depending on ML choice.  
