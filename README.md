@@ -4,7 +4,7 @@
 
 | Type        | Course                                                 | Code    | ECTS | Peers   |
 | ----------- | ------------------------------------------------------ | ------- | ---- | ------- |
-| Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon, Peter |
+| Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon, Peter, Konrad |
 | Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  | Peter |
 | Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter |
 | Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter |
