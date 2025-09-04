@@ -6,7 +6,7 @@
 | ----------- | ------------------------------------------------------ | ------- | ---- | ------- |
 | Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon |
 | Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  |         |
-| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  |         |
+| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian? |
 | Foundations | Experiment Design and Execution                        | 194.192 | 6.0  |         |
 | Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  |         |
 | Big Data | Effiziente Programme                                      | 185.190 | 3.0  |         |
