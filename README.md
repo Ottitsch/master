@@ -9,7 +9,7 @@
 | Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter, Muhamad |
 | Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter, Muhamad |
 | Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  | Peter, Muhamad |
-| Big Data | Effiziente Programme                                      | 185.190 | 3.0  | Muhamad |
+| Big Data | Effiziente Programme                                      | 185.190 | 3.0  | Muhamad, Max Tiesler |
 
 **Subtotal Foundations & Core:** 24.0 ECTS  
 
