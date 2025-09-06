@@ -5,10 +5,10 @@
 | Type        | Course                                                 | Code    | ECTS | Peers   |
 | ----------- | ------------------------------------------------------ | ------- | ---- | ------- |
 | Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon, Peter, Konrad, Muhamad |
-| Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  | Peter, Muhamad |
-| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter, Muhamad |
-| Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter, Muhamad |
-| Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  | Peter, Muhamad |
+| Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  | Peter, Muhamad, Brandon |
+| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter, Muhamad, Brandon |
+| Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter, Muhamad, Brandon |
+| Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  | Peter, Muhamad, Brandon |
 | Big Data | Effiziente Programme                                      | 185.190 | 3.0  | Muhamad, Max Tiesler |
 
 **Subtotal Foundations & Core:** 24.0 ECTS  
@@ -52,7 +52,7 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 |--------|------|------|-------|
 | Advanced Reinforcement Learning | 194.200 | 6.0 |  |
 | Bayes-Statistik | 105.173 | 5.0 |  |
-| Generative AI | 194.207 | 6.0 | Nico |
+| Generative AI | 194.207 | 6.0 | Nico, Brandon |
 | Machine Learning for Visual Computing | 193.189 | 6.0 |  |
 | Selbstorganisierende Systeme | 188.413 | 4.5 |  |
 | Theoretical Foundations and Research Topics in ML | 194.100 | 3.0 |  |
