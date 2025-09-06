@@ -15,11 +15,12 @@
 
 ---
 
-## Transferable Skills
+## Transferable Skills (choose 1)
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
 | MT-RAI | 034.011 | 3.0 | Muhamad |
+| talent programm | 064.005 | 3.0 | |
 
 **Subtotal Transferable Skills:** 3.0 ECTS  
 
