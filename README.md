@@ -4,10 +4,10 @@
 
 | Type        | Course                                                 | Code    | ECTS | Peers   |
 | ----------- | ------------------------------------------------------ | ------- | ---- | ------- |
-| Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon, Peter, Konrad, Muhamad |
-| Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  | Peter, Muhamad, Brandon |
-| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter, Muhamad, Brandon |
-| Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter, Muhamad, Brandon |
+| Foundations | Machine Learning                                       | 184.702 | 4.5  | Brandon, Peter, Konrad, Muhamad, Simon |
+| Foundations | Advanced Methods for Regression and Classification     | 105.707 | 4.5  | Peter, Muhamad, Brandon, Simon |
+| Foundations | Einführung in Semantic Systems                         | 188.399 | 3.0  | Julian?, Peter, Muhamad, Brandon, Simon |
+| Foundations | Experiment Design and Execution                        | 194.192 | 6.0  | Peter, Muhamad, Brandon, Simon |
 | Machine Learning | Statistische Simulation und computerintensive Methoden | 107.330 | 3.0  | Peter, Muhamad, Brandon |
 | Big Data | Effiziente Programme                                      | 185.190 | 3.0  | Muhamad, Max Tiesler |
 
