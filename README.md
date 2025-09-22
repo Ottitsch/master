@@ -50,11 +50,7 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
-| Advanced Reinforcement Learning | 194.200 | 6.0 |  |
-| Bayes-Statistik | 105.173 | 5.0 |  |
 | Generative AI | 194.207 | 6.0 | Nico, Brandon |
-| Machine Learning for Visual Computing | 193.189 | 6.0 |  |
-| Selbstorganisierende Systeme | 188.413 | 4.5 |  |
 | Theoretical Foundations and Research Topics in ML | 194.100 | 3.0 |  |
 
 ---
