@@ -38,8 +38,8 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
-| Deep Learning for Natural Language Processing | 192.039 | 6.0 |Jonas?|
-| Natural Language Processing and Information Extraction | 194.093 | 3.0 |Jonas|
+| Deep Learning for Natural Language Processing | 192.039 | 6.0 |Jonas?,Robert|
+| Natural Language Processing and Information Extraction | 194.093 | 3.0 |Jonas,Robert|
 | Visualisierung | 193.166 | 6.0 |  |
 
 **Subtotal Visual Analytics – Extension:** 15.0 ECTS  
