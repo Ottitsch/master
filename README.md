@@ -15,12 +15,11 @@
 
 ---
 
-## Transferable Skills (choose 1)
+## Transferable Skills
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
 | MT-RAI | 034.011 | 3.0 | Muhamad |
-| talent programm | 064.005 | 3.0 | |
 
 **Subtotal Transferable Skills:** 3.0 ECTS  
 
@@ -40,7 +39,7 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 |--------|------|------|-------|
 | Deep Learning for Natural Language Processing | 192.039 | 6.0 |Jonas?,Robert|
 | Natural Language Processing and Information Extraction | 194.093 | 3.0 |Jonas,Robert|
-| Visualisierung | 193.166 | 6.0 |  |
+| Visualisierung | 193.166 | 6.0 |Konrad|
 
 **Subtotal Visual Analytics – Extension:** 15.0 ECTS  
 
@@ -51,7 +50,6 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
 | Generative AI | 194.207 | 6.0 | Nico, Brandon |
-| Theoretical Foundations and Research Topics in ML | 194.100 | 3.0 |  |
 
 ---
 
@@ -59,14 +57,6 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
-| Advanced Multiprocessor Programming | 191.022 | 6.0 |  |
-| Beyond Exact Algorithms | 192.163 | 6.0 |  |
+| Advanced Multiprocessor Programming | 191.022 | 6.0 |Flo|
 
 ---
-
-## 🎯 Total This Semester  
-**Base (without ML/BD picks): 42.0 ECTS**  
-- Add **1 ML course (3.0–6.0 ECTS)**  
-- Add **1 BD course (6.0 ECTS)**  
-
-➡ **Final Total: 51.0 – 54.0 ECTS**, depending on ML choice.  
