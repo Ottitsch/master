@@ -51,11 +51,3 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 | Generative AI | 194.207 | 6.0 | Nico, Brandon |
 
 ---
-
-## Big Data – Extension
-
-| Course | Code | ECTS | Peers |
-|--------|------|------|-------|
-| Advanced Multiprocessor Programming | 191.022 | 6.0 |Flo|
-
----
