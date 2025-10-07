@@ -28,7 +28,6 @@
 **Subtotal Foundations, Core, Transferable Skills:** 27.0 ECTS  
 
 Im going to sign up for all VA Extensions  
-Im going to pick 1 course from ML AND 1 course from BD  
 In case it gets too much Im going to drop Extensions / Cores as I see fit  
 
 ---
@@ -45,7 +44,7 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 
 ---
 
-## Machine Learning – Extension (choose 1)
+## Machine Learning – Extension
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
@@ -53,7 +52,7 @@ In case it gets too much Im going to drop Extensions / Cores as I see fit
 
 ---
 
-## Big Data – Extension (choose 1)
+## Big Data – Extension
 
 | Course | Code | ECTS | Peers |
 |--------|------|------|-------|
